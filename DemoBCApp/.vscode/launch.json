@@ -15,8 +15,7 @@
             "enableSqlInformationDebugger": true,
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,
-            "numberOfSqlStatements": 10,
-            "useMcpServerForDebugging": true
+            "numberOfSqlStatements": 10
         }
     ]
 }
